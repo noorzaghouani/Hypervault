@@ -1,0 +1,7 @@
+{
+  "actors": [
+    { "username": "REPLACE_USERNAME", "email": "REPLACE@yourdomain.local", "role": "super_admin", "password": "REPLACE_STRONG_PASSWORD" },
+    { "username": "REPLACE_USERNAME", "email": "REPLACE@yourdomain.local", "role": "rh_manager",  "password": "REPLACE_STRONG_PASSWORD" },
+    { "username": "REPLACE_USERNAME", "email": "REPLACE@yourdomain.local", "role": "employee",    "password": "REPLACE_STRONG_PASSWORD" }
+  ]
+}
